@@ -12,7 +12,7 @@
     "socket.io": "^1.7.2"
   },
   "scripts": {
-    "start": "gh-pages -d .",
+    "start": "gh-pages -d ."
   },
   "keywords": [],
   "author": "",
